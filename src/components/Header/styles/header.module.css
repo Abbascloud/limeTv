@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #2C2C33;
+  padding: 0;
+  padding-right: 32px;
+}
+.header__logo {
+  height: 96px;
+  width: 96px;
+}
+.header nav {
+  margin-left: 32px;
+}/*# sourceMappingURL=header.module.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["channel.module.scss","channel.module.css","../../../const/_variables.scss"],"names":[],"mappings":"AAEA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,sBAAA;EACA,aAAA;EACA,YAAA;EAEA,kBAAA;ACFA;ADGI;EACI,aAAA;EACA,YAAA;EACA,kBAAA;ACDR;ADGI;EACA,qBAAA;EACA,gBAAA;EACA,eAAA;EACA,iBAAA;EACA,kBAAA;EACA,cElBW;ADiBf;;ADKA;EACI,yBEtBK;ADoBT","file":"channel.module.css"}

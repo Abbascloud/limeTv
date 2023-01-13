@@ -1,0 +1,9 @@
+@import "../../../const/variables";
+
+.channelsList{
+min-height: 100vh;
+display: grid;
+grid-template-columns: repeat(7, 1fr);
+padding: 0 50px;
+background: #1A1A1A;
+}
